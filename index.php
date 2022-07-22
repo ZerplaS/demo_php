@@ -1,5 +1,5 @@
 <?php
   echo "Mr.Pherapong Potanont";
 
-  echo"
+  echo"Information Techonology";
 ?>
